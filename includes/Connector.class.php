@@ -322,7 +322,7 @@ class AC_Connector {
 		}
 
 		if ($this->debug) {
-			echo "<textarea style='height: 300px; width: 600px;'>" . $debug_str1 . "</textarea>";
+			echo "<textarea style='block-size: 300px; inline-size: 600px;'>" . $debug_str1 . "</textarea>";
 		}
 
 		$object->http_code = $http_code;

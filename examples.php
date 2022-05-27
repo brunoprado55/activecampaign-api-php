@@ -2,7 +2,7 @@
 
 	require_once("includes/ActiveCampaign.class.php");
 
-	$ac = new ActiveCampaign("API_URL", "API_KEY");
+	$ac = new ActiveCampaign("https://bemtevi39488.api-us1.com", "fa737462df9d6ecb4f54c2f0ba3a6fb65ee07c4eb12170c857ce30b4cf785dcfe65091e9");
 
 	/*
 	 * TEST API CREDENTIALS.
