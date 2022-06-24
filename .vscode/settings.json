@@ -2,5 +2,13 @@
     "php.debug.executablePath": "",
     "sml.ignoreMissingSmlDotJson": false,
     "sml.smlnj.make.debounce": 1000,
-    "python.terminal.activateEnvironment": false
+    "python.terminal.activateEnvironment": false,
+    "debug.allowBreakpointsEverywhere": true,
+    "debug.autoExpandLazyVariables": true,
+    "debug.confirmOnExit": "always",
+    "debug.console.acceptSuggestionOnEnter": "on",
+    "debug.console.closeOnEnd": true,
+    "debug.internalConsoleOptions": "openOnSessionStart",
+    "debug.onTaskErrors": "debugAnyway",
+    "debug.openExplorerOnEnd": true
 }
